@@ -141,7 +141,7 @@ footer .card {
 .card img{
     width: 100%;
 }
-footer .card1:hover{
+footer .card:hover{
     box-shadow: 1px 1px 20px 1px #7b838a;
 
 }
